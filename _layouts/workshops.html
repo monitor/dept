@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div>
+  <p>{{ page.title }}</p>
+  <div>{{ content }}</div>
+  {% assign workshops = site.workshops | sort: 'start_date' | reverse %} {% for
+  workshop in workshops %}
+  <div>
+    <a href="{{ workshop.url | relative_url  }}">{{ workshop.title }}</a>
+  </div>
+  {% endfor %}
+</div>

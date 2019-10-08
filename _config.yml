@@ -1,0 +1,15 @@
+title: Dept.
+description: >- # this means to ignore newlines until "baseurl:"
+  Describing the Present Tense
+collections:
+  posts:
+    title: Posts
+    output: true
+  workshops:
+    title: Workshops
+    output: true
+baseurl: "/dept" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown

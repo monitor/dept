@@ -1,0 +1,10 @@
+<nav class="dept-nav nav flex-column">
+  {% assign sorted-pages = site.pages | sort: 'sort' | where: 'menu', 'true' |
+  reverse %} {% for link in sorted-pages %}
+  <a class="nav-link text-body" href="{{ link.url | relative_url  }}">
+    <span class="{% if link.url == page.url %}active{% endif %}"
+      >{{ link.title }}</span
+    >
+  </a>
+  {% endfor %}
+</nav>

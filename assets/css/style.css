@@ -1,0 +1,147 @@
+@font-face {
+  font-family: "Aileron";
+  src: url("../fonts/Aileron-Regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Aileron";
+  src: url("../fonts/Aileron-Italic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Aileron";
+  src: url("../fonts/Aileron-Bold-webfont.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Aileron";
+  src: url("../fonts/Aileron-BoldItalic-webfont.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Junicode Condensed";
+  src: url("../fonts/Junicode-RegularCondensed-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Junicode";
+  src: url("../fonts/Junicode-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Junicode";
+  src: url("../fonts/Junicode-Italic-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Junicode";
+  src: url("../fonts/Junicode-Bold-webfont.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Junicode";
+  src: url("../fonts/Junicode-BoldItalic-webfont.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Messapia";
+  src: url("../fonts/Messapia-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Messapia";
+  src: url("../fonts/Messapia-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+:root {
+  --transition: 0.3s ease-in-out;
+}
+
+body {
+  font-family: "Junicode", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+body,
+html,
+.wrapper {
+  height: 100%;
+}
+
+.dept {
+}
+
+/* navigation */
+
+.dept-nav {
+  font-family: "Aileron", sans-serif;
+}
+
+.dept-nav .nav-link {
+  text-transform: uppercase;
+  border-bottom: 1px solid black;
+  padding: 20px 10px;
+}
+
+.dept-nav .nav-link:first-of-type {
+  border-top: 1px solid black;
+}
+
+.dept-nav .nav-link span {
+  margin-left: 0px;
+  transition: margin-left var(--transition);
+  display: block;
+}
+
+.dept-nav .nav-link span.active,
+.dept-nav .nav-link:hover span {
+  margin-left: 15px;
+}
+
+/* logo */
+
+.dept-logo {
+  margin: 25px 0;
+}
+
+.dept-logo a {
+  text-decoration: none;
+}
+
+.dept-logo-title {
+  font-family: "Messapia", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.375rem;
+  line-height: 1;
+}
+
+.dept-logo-description {
+  font-family: "Junicode Condensed", serif;
+  font-weight: normal;
+  font-size: 1.375rem;
+  margin-left: 28px;
+}
