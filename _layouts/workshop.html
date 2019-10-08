@@ -21,4 +21,19 @@ layout: default
       </div>
     </div>
   </div>
+  <div class="workshop-img">
+    <img src="{{'assets/images/' | append: page.image | relative_url }}" />
+  </div>
+  <div class="container-fluid mt-4">
+    <div class="row">
+      <div class="col-6 offset-2">
+        {{content}}
+      </div>
+      <div class="col-2">
+        <a href="{{page.signup_link}}" role="button" class="btn btn-primary"
+          >sign up</a
+        >
+      </div>
+    </div>
+  </div>
 </div>
