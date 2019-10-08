@@ -42,11 +42,14 @@
     <div class="wrapper">
       <div class="container h-100">
         <div class="row h-100">
-          <div class="col-3">
-            {% include logo.html %} {% include navigation.html %}
+          <div class="col-3 d-flex flex-column border-right border-dark my-3">
+            {% include logo.html %} {% include navigation.html %} {% include
+            credits.html %}
           </div>
-          <div class="col-9">
-            {{ content }}
+          <div class="col-9 d-flex flex-column overflow-hidden">
+            <div class="scroll-container pt-3">
+              {{ content }}
+            </div>
           </div>
         </div>
       </div>

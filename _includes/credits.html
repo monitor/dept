@@ -1,6 +1,9 @@
-<div class="dept-credits">
+<div class="dept-credits mt-auto">
   <p>
     DEPT.<br />
-    is a project by
+    is a project by {% for author in site.data.authors %} {% if forloop.last
+    %}and{% endif %}
+    <a class="text-body" href="{{author.link}}"> {{ author.name }}</a>{% if
+    forloop.last %}.{% else %},{% endif %} {% endfor %}
   </p>
 </div>

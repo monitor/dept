@@ -91,7 +91,9 @@ html,
   height: 100%;
 }
 
-.dept {
+.scroll-container {
+  overflow-y: auto;
+  flex: 1 1 1px;
 }
 
 /* navigation */
@@ -144,4 +146,72 @@ html,
   font-weight: normal;
   font-size: 1.375rem;
   margin-left: 28px;
+}
+
+/* credits */
+
+.dept-credits {
+  font-family: "Aileron", sans-serif;
+  font-size: 0.875rem;
+}
+
+.dept-credits a {
+  text-decoration: underline;
+}
+
+/* workshops */
+
+.workshops-container {
+}
+
+.workshop-container {
+  border-bottom: 1px solid black;
+  padding: 20px 100px;
+}
+
+.workshop-title {
+  margin-bottom: 20px;
+}
+.workshop-title a:hover {
+  text-decoration: none;
+}
+
+.workshop-title h2 {
+  font-family: "Junicode Condensed", serif;
+  font-weight: normal;
+  font-size: 4.5rem;
+}
+
+.workshop-info {
+  display: flex;
+}
+
+.workshop-info-box {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.workshop-info-box h6 {
+  font-family: "Aileron", sans-serif;
+  font-weight: normal;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.workshop-info-box p {
+  font-family: "Junicode Condensed", serif;
+  font-weight: normal;
+  font-size: 2.25rem;
+  margin-left: 28px;
+}
+
+.workshop-img {
+  height: 400px;
+}
+
+.workshop-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
