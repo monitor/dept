@@ -2,13 +2,28 @@
 layout: default
 ---
 
-<div>
-  <p>{{ page.title }}</p>
-  <div>{{ content }}</div>
+<div class="workshops-container">
   {% assign workshops = site.workshops | sort: 'start_date' | reverse %} {% for
   workshop in workshops %}
-  <div>
-    <a href="{{ workshop.url | relative_url  }}">{{ workshop.title }}</a>
+  <div class="workshop-container">
+    <div class="workshop-title">
+      <a class="text-body" href="{{ workshop.url | relative_url  }}"
+        ><h2>{{ workshop.title }}</h2></a
+      >
+    </div>
+    <div class="workshop-info">
+      <div class="workshop-info-box">
+        <h6>where</h6>
+        <p>{{ workshop.where }}</p>
+      </div>
+      <div class="workshop-info-box">
+        <h6>when</h6>
+        <p>
+          {{ workshop.start_date | date: "%d.%m" }}–{{ workshop.end_date | date:
+          "%d.%m.%Y" }}
+        </p>
+      </div>
+    </div>
   </div>
   {% endfor %}
 </div>

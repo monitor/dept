@@ -4,5 +4,3 @@ layout: workshops
 menu: true
 permalink: /workshops/
 ---
-
-ciao

@@ -3,6 +3,22 @@ layout: default
 ---
 
 <div>
-  <p>{{ page.title }}</p>
-  <div class="testone">{{ content }}</div>
+  <div class="workshop-container border-0">
+    <div class="workshop-title">
+      <h2>{{ page.title }}</h2>
+    </div>
+    <div class="workshop-info">
+      <div class="workshop-info-box">
+        <h6>where</h6>
+        <p>{{ page.where }}</p>
+      </div>
+      <div class="workshop-info-box">
+        <h6>when</h6>
+        <p>
+          {{ page.start_date | date: "%d.%m" }}–{{ page.end_date | date:
+          "%d.%m.%Y" }}
+        </p>
+      </div>
+    </div>
+  </div>
 </div>

@@ -3,8 +3,8 @@ title: Out There
 where: Drugo more, Rijeka
 start_date: 2019-11-14
 end_date: 2019-11-19
-signup_link:
-image:
+signup_link: https://google.com
+image: "drugo.png"
 layout: workshop
 ---
 
