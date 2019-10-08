@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
+<div class="mt-3 page-intro">
+    <p>{{ content }}</p>
+</div>
 
-<div class="workshops-container">
-  {% assign workshops = site.workshops | sort: 'start_date' | reverse %} {% for
+<div class="workshops-container mt-5">
+  {% assign workshops = site.workshops | sort: 'order' %} {% for
   workshop in workshops %}
-  <div class="workshop-container">
+  <a class="text-body" href="{{ workshop.url | relative_url  }}"><div class="workshop-container">
     <div class="workshop-title">
-      <a class="text-body" href="{{ workshop.url | relative_url  }}"
-        ><h2>{{ workshop.title }}</h2></a
-      >
+      <h2>{{ workshop.title }}</h2>
     </div>
     <div class="workshop-info">
       <div class="workshop-info-box">
@@ -25,5 +26,6 @@ layout: default
       </div>
     </div>
   </div>
+  </a>
   {% endfor %}
 </div>

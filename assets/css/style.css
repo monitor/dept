@@ -80,6 +80,11 @@
 }
 
 body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
+
+body {
   font-family: "Junicode", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -94,6 +99,15 @@ html,
 .scroll-container {
   overflow-y: auto;
   flex: 1 1 1px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 /* navigation */
@@ -159,21 +173,62 @@ html,
   text-decoration: underline;
 }
 
+/*home*/
+.testone, .page-intro{
+    padding-left: 50px;
+}
+
+.testone h2 {
+  font-family: "Junicode Condensed", serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.testone p, .page-intro p{
+    font-family: "Junicode Condensed", serif;
+    font-weight: normal;
+    font-size: 2.5rem;
+    line-height: 120%;
+}
+
+.entry-point a{
+  font-family: "Aileron", sans-serif;
+  font-size: 18px;
+  margin-right: 30px;
+  color: #212529;
+  text-decoration: underline;
+}
+
+.dept {
+  font-family: "Messapia", sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 60%;
+}
+
 /* workshops */
 
 .workshops-container {
 }
 
 .workshop-container {
-  border-bottom: 1px solid black;
-  padding: 20px 100px;
+  border-top: 1px solid black;
+  padding: 20px 50px;
 }
 
 .workshop-title {
   margin-bottom: 20px;
 }
-.workshop-title a:hover {
+.workshops-container a:hover {
   text-decoration: none;
+}
+
+.text-body .workshop-container{
+  transition: padding-left var(--transition);
+}
+
+.text-body .workshop-container:hover{
+  padding-left: 100px
 }
 
 .workshop-title h2 {
@@ -199,7 +254,7 @@ html,
   margin: 0;
 }
 
-.workshop-info-box p {
+.workshop-info-box p, .workshop-title p{
   font-family: "Junicode Condensed", serif;
   font-weight: normal;
   font-size: 2.25rem;
@@ -214,4 +269,18 @@ html,
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.workshop-content p{
+  font-family: Georgia;
+  font-size: 1.3rem;
+  line-height: 140%;
+}
+
+.btn-dark {
+  border: 1px solid #000000;
+  background-color: white;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: "Aileron", sans-serif;
 }
