@@ -4,9 +4,9 @@ subtitle: Digging into the emotional responses to the city most unwanted living 
 where: ENSCI+ESAD, Paris (FR)
 start_date: 2020-02-17
 end_date: 2020-02-28
-signup_link: 
+signup_link:
 signup_label: Sign up (coming soon)
-image: "drugo.png"
+image: "rats.png"
 layout: workshop
 order: 3
 ---
