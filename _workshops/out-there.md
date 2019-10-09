@@ -4,8 +4,8 @@ subtitle: Exploring the invitations to act in the public space by material signs
 where: Drugo More, Rijeka (HR)
 start_date: 2019-11-14
 end_date: 2019-11-19
-signup_link:  
-signup_label: Sign up (coming soon)
+signup_link:  https://forms.gle/88uHB6qB2G8duSTq9
+signup_label: Sign up
 image: "drugo.png"
 layout: workshop
 order: 1
