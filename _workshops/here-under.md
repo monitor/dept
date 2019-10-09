@@ -1,7 +1,7 @@
 ---
 title: Hereunder
 subtitle: Digging into the emotional responses to the city most unwanted living beings.
-where: ENSCI+ESAD, Paris (FR)
+where: Les Plateaux Sauvages, Paris (FR)
 start_date: 2020-02-17
 end_date: 2020-02-28
 signup_link:
