@@ -1,0 +1,15 @@
+<a class="navbar-brand" href="{{ '/' | relative_url }}"><span class="dept-logo-title">DEPT.</span><br>Describing the Present Tense</a>
+  <button class="navbar-toggler float-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    {% assign sorted-pages = site.pages | sort: 'sort' | where: 'menu', 'true' %} {% for link in sorted-pages %}
+    <a class="nav-link text-body" href="{{ link.url | relative_url  }}">
+      <span class="{% if link.url == page.url %}active{% endif %}"
+        >{{ link.title }}</span
+      >
+    </a>
+    {% endfor %}
+
+  </div>
