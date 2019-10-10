@@ -15,9 +15,13 @@ For the city of Rijeka, streets’ images, retrieved from Google Street View, wi
 
 Tring to answer the question **“what is the public space asking us to do?”** we will try to grasp, discuss and describe the effects of these invitations in our daily experiences, exploring and performing their consequences. We will try to attach new meanings to them. We will repurpose them to narrate our aspirations, desires, beliefs and possessions defining, individually and collectively, our identities.
 
-Data & algo & tool
+The starting point for the observation process will be a series of semi-automatically generated catalogues of all the objects and fragments we will retrieve with an [image recognition algorithm](https://cs.stanford.edu/people/karpathy/densecap/) in streets’ images, retrieved from Google Street View.
 
-If you want to participate in this iteration feel free to compile the form, or just stop by to say “HI!”
+These observations will produce a series of posters composed by the fragments of the city and the individual narratives. Capturing and layering, materially, the discussions, the frictions and the exchanges between the participants they will be a sort of reminder of the different individuality composing a collective, their alignments and misalignments.
+
+These individual narratives will merge in a common partition that will be publicly performed and captured by an audio track as expression of the collective experience.
+
+If you want to participate feel free to compile the form, or just stop by to say “HI!”
 
 <hr>
 
