@@ -6,7 +6,7 @@ menu: true
 sort: 1
 
 ---
-<h2>What if we hold on a moment to see what's around us?</h2>
+<h2>About</h2>
 
 <span class="dept">DEPT.</span> is a participative research project aimed at describing the present conditions of the environments we inhabit.
 

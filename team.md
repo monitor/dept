@@ -5,6 +5,7 @@ permalink: /team/
 menu: true
 sort: 6
 ---
+<h2>Team</h2>
 <span class="dept">DEPT.</span> is based on a multiplicity of national and international, artistic and academic experiences, in which the core team has been involved for more than 5 years.
 
 **[Donato Ricci](http://bit.ly/do_does_this)** ([médialab SciencesPo](https://medialab.sciencespo.fr/)) – researcher.<br>

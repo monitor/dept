@@ -5,6 +5,7 @@ permalink: /dept-repository/
 menu: true
 sort: 5
 ---
+<h2>Repository</h2>
 <span class="dept">DEPT.</span> aims to contribute in an innovative way to the study of the relationship between humans, non-humans and their shared spaces. Renewing the methods and the aesthetics of grounded and empirical inquiry, one of the main intellectual outcome of the project is to produce new reading keys that often do not find a place in academic research.
 
 The results will travel from one iteration to the other linking the communities involved. They are part of an iterative publishing process aimed at exploring other ways of narrating and representing our environments. Publishing is here understood as an interface between various human and non-human actors: technologies, algorithms, material, political and ideological conditions and cultural values. Human practices—cutting, pasting, indexing, taking notes, printing—and computational strategies—extracting visual features, creating clusters of items, arranging items into a specific order—come together in a process of dis- and re-assemblage, enrichment, recontextualization, and conversion.

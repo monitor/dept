@@ -189,10 +189,10 @@ h1 {
 
 /*home*/
 
-.testone h2 {
+h2 {
   font-family: "Junicode Condensed", serif;
-  font-weight: bold;
-  font-size: 2.5rem;
+  font-weight: Regular;
+  font-size: 4.5rem;
 }
 
 .testone p, .page-intro p, ul{
@@ -208,6 +208,7 @@ h1 {
   margin-right: 30px;
   color: #212529;
   text-decoration: underline;
+  text-transform: uppercase;
 }
 
 .dept {
@@ -322,8 +323,8 @@ h1 {
       padding-left: 50px;
   }
 
-  .testone h2 {
-    font-size: 2.5rem;
+  h2 {
+    font-size: 4.5rem;
   }
 }
 
