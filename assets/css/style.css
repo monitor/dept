@@ -283,8 +283,8 @@ h1 {
   object-fit: cover;
 }
 
-.workshop-content p{
-  font-family: Georgia;
+.workshop-content p, .card-body p{
+  font-family: "Aileron", sans-serif;
   font-size: 1.3rem;
   line-height: 140%;
 }
@@ -295,6 +295,16 @@ h1 {
   color: #000000;
   text-transform: uppercase;
   font-family: "Aileron", sans-serif;
+}
+
+/* methods */
+.methods-heading {
+  border-top: 1px solid black;
+}
+
+#headingThree{
+  padding-bottom: 10px;
+  border-bottom: 1px solid black;
 }
 
 /* // Small devices (landscape phones, 576px and up) */

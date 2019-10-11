@@ -2,8 +2,8 @@
 title: Out There
 subtitle: Exploring the invitations to act in the public space by material signs.
 where: Drugo More, Rijeka (HR)
-start_date: 2019-11-14
-end_date: 2019-11-19
+start_date: 2019-11-15
+end_date: 2019-11-17
 signup_link:  https://forms.gle/88uHB6qB2G8duSTq9
 signup_label: Sign up
 image: "drugo.png"

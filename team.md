@@ -10,7 +10,7 @@ sort: 6
 **[Donato Ricci](http://bit.ly/do_does_this)** ([médialab SciencesPo](https://medialab.sciencespo.fr/)) – researcher.<br>
 He is working on the hybridization between Design and Digital Social Sciences research methods. He is interested in the "materialization of data" in public and participatory situations to produce localized and situated readings.
 
-**Duncan Evennou**(Lighthouse Company) – actor, director.<br>
+**Duncan Evennou** (Lighthouse Company) – actor, director.<br>
 He develops works at the fringes of contemporary art, sociology and performance around three major dynamics: creation, research and pedagogy. His shows reflect a willingness to work on the question of the contemporary.
 
 **[Calibro](http://calib.ro)** – design.<br>
