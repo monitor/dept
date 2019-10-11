@@ -32,8 +32,13 @@ layout: default
       </div>
       <div class="col-3">
         <a href="{{page.signup_link}}" role="button" class="btn btn-dark btn-block py-3"
-          > {{page.signup_label}} </a
-        >
+          > {{page.signup_label}} </a>
+      <div class="my-5 {{page.logo_visibility}}">
+        <h5>Hosted by:</h5>
+        <a href="{{page.logo_link}}">
+          <img class="img-fluid" src="{{'assets/images/' | append: page.logo | relative_url }}" />
+        </a>
+      </div>
       </div>
     </div>
   </div>

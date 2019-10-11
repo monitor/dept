@@ -9,6 +9,9 @@ signup_label: Sign up (coming soon)
 image: "drugo.png"
 layout: workshop-tbd
 order: 5
+logo: ""
+logo_link:
+logo_visibility: invisible
 ---
 
 TBA

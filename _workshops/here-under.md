@@ -9,6 +9,9 @@ signup_label: Sign up (coming soon)
 image: "rats.png"
 layout: workshop
 order: 3
+logo: ""
+logo_link:
+logo_visibility: invisible
 ---
 
 We have always used the subterranean to put hide the things, living and non-living, that we do not want to take care of. The ones that repel us. Imagining invisibility as a shield and as a protection. They make no exceptions: the rats. Always confined to the invisible dimension of the urban subsoil, rats, under the new injunction to “re-naturate” our cities, re-affirm their presence and the necessity to negotiate and share our living spaces with a wider cosmos of entities and beings offering the possibility of imagining new relationships with the "marginalized", the "excluded".

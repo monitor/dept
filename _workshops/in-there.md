@@ -4,11 +4,14 @@ subtitle: Engaging in the rituals of domestic spaces through the stories of thei
 where: Porto Biennale, Porto (PT)
 start_date: 2019-12-02
 end_date: 2019-12-08
-signup_link: 
+signup_link:
 signup_label: Sign up (coming soon)
 image: "porto.png"
 layout: workshop
 order: 2
+logo: "logo-biennale.png"
+logo_link: https://portodesignbiennale.pt/en
+logo_visibility: visible
 ---
 
 For the Porto Design Biennale, we want to investigate is the mutations of private and domestic spaces under the impetus of the new economies. The possibility offered by digital platforms to share our private spaces invites us to erode the distinction between “the private” and “the public”.

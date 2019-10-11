@@ -9,6 +9,9 @@ signup_label: Sign up
 image: "drugo.png"
 layout: workshop
 order: 1
+logo: "logo-drugo.png"
+logo_link: http://drugo-more.hr/en
+logo_visibility: visible
 ---
 
 For the city of Rijeka, streets’ images, retrieved from Google Street View, will be used for identifying the messages, inscriptions, signs and objects, that invites us “to do something”, “to perform actions”, “to imagine an elsewhere”.
