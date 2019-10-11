@@ -1,5 +1,5 @@
 ---
-title: In Between
+title: IN BETWEEN
 subtitle: Seeking for new transitive exchanges with cultural institutions.
 where: TBA
 start_date: TBA

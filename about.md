@@ -16,11 +16,11 @@ sort: 1
 
 <div class="ml-5">
 <p>
-<b><a href="/workshops/out-there">Out There</a></b>, exploring the invitations of material signs to act in the public space;<br>
-<b><a href="/workshops/in-there">In There</a></b>, engaging in the rituals of domestic spaces through the stories of their objects;<br>
-<b><a href="/workshops/hereunder">Hereunder</a></b>, digging into the emotional responses to the city most unwanted beings;<br>
-<b><a href="/workshops/up-here">Up Here</a></b>, probing the subtle landscape of human dreams and hopes;<br>
-<b><a href="/workshops/in-between">In Between</a></b>, seeking for new transitive exchanges with cultural institutions.<br>
+<a href="/workshops/out-there">OUT THERE</a>, exploring the invitations of material signs to act in the public space;<br>
+<a href="/workshops/in-there">IN THERE</a>, engaging in the rituals of domestic spaces through the stories of their objects;<br>
+<a href="/workshops/hereunder">HEREUNDER</a>, digging into the emotional responses to the city most unwanted beings;<br>
+<a href="/workshops/up-here">UP HERE</a>, probing the subtle landscape of human dreams and hopes;<br>
+<a href="/workshops/in-between">IN BETWEEN</a>, seeking for new transitive exchanges with cultural institutions.<br>
 </p>
 </div>
 
@@ -30,4 +30,4 @@ For each dimension of the inquiry, we aim at identifying and accounting for the 
 
 The inquiry is based on an experimental triangulation of different research [methods and practices](/methods-techniques/).
 
-<span class="dept">DEPT.</span> explores how the performing arts, social sciences and design practices can otherwise express contemporary issues. On this view, the inquiry is not meant to passively observe our present realities. On the contrary, it proposes an active process which starts with a call to hold on and then proceeds towards active manipulations and forms of expressions. It proposes to establish new roles, emotional feelings and political responsibilities.
+<span class="dept">DEPT.</span>  is based on an experimental triangulation of different research [methods and practices](/methods-techniques/). It explores how the performing arts, social sciences and design practices can otherwise express contemporary conditions. The inquiry is not meant to passively observe our present realities. On the contrary, it proposes an active process which starts with a call to hold on and then proceeds towards active manipulations and forms of expressions. It proposes to establish new roles, emotional feelings and political responsibilities.

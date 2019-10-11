@@ -1,5 +1,5 @@
 ---
-title: Up Here
+title: UP HERE
 subtitle: Probing the subtle landscape of human dreams and hopes.
 where: Strasbourg (FR)
 start_date: TBA
