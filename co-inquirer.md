@@ -14,4 +14,4 @@ There are many possibilities for collaboration. You can [register](/workshops) f
 * **write the final partition of our collective experiment**: feel free to contribute in discuss, select, further explore and re-assemble the narrative coming from the individual dialogues. We would like to work with you in a collective writing experiment incorporating different and multiple point of views.
 read and perform the final text: jump in if you feel comfortable with reading and performing the results of the workshop and of the specific iteration. Obviously, besides experienced or amateur actors and performers, we would be more than glad to collaborate with anybody wishing to embody a collective voice.
 
-...or just stop by to say hello or have coffee together.
+* **...or just stop by to say hello or have coffee together.**
