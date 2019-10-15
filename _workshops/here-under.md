@@ -6,7 +6,7 @@ start_date: 2020-02-17
 end_date: 2020-02-28
 signup_link:
 signup_label: Sign up (coming soon)
-image: "rats.png"
+image: "paris.png"
 layout: workshop
 order: 3
 logo: ""
