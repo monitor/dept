@@ -427,6 +427,10 @@ body {
       font-size: 2.5rem;
   }
 
+  .workshop-content p, .methods-body p{
+    font-size: 1.3rem;
+  }
+
   .workshop-title h2 {
     font-size: 4.5rem;
   }

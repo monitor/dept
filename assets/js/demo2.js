@@ -142,7 +142,7 @@
             // show the image
             .set(img.DOM.el, {
                 startAt: {opacity: 0, scale: 1},
-                opacity: 1,
+                opacity: 0.6,
                 scale: 1,
                 zIndex: this.zIndexVal,
                 x: cacheMousePos.x - img.rect.width/2,
