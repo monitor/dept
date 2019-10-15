@@ -1,6 +1,6 @@
 ---
 title: HEREUNDER
-subtitle: Digging into the emotional responses to the city most unwanted living beings.
+subtitle: Digging into the emotional responses to the city's most unwanted living beings.
 where: Les Plateaux Sauvages, Paris (FR)
 start_date: 2020-02-17
 end_date: 2020-02-28
