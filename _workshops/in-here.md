@@ -23,6 +23,8 @@ This iteration—extension of a previous research project called [Cozy Flat](htt
 
 If you want to participate in this iteration feel free to sign up, or just stop by to say “HI!”
 
+ADDRESS: ID+ / PhDDesign @ UPTEC Baixa, Praça Coronel Pacheco 2, 1st floor
+
 <hr>
 
 **IN AQUI Porto — Envolvimento nos rituais dos espaços domésticos através das histórias dos seus objectos contidos.**
