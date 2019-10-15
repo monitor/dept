@@ -23,10 +23,12 @@ More info coming soon.
 <hr>
 
 
-**ICI-DESSUS — Creuser dans les réponses émotionnelles à la ville la plupart des êtres vivants indésirables.**
+**ICI-DESSUS — Approfondir les réponses émotionnelles aux êtres vivants indésirables de la ville.**
 
-Nous avons toujours utilisé le souterrain pour cacher les choses, vivantes et non vivantes, dont nous ne voulons pas prendre soin. Ceux qui nous repoussent. Imaginer l'invisibilité comme un bouclier et une protection. Ils ne font aucune exception : les rats. Toujours confinés à la dimension invisible du sous-sol urbain, les rats, sous la nouvelle injonction de " renaturer " nos villes, réaffirment leur présence et la nécessité de négocier et de partager nos espaces de vie avec un cosmos plus large d'entités et d'êtres offrant la possibilité d'imaginer de nouveaux rapports avec les " marginalisés ", les " exclus ". Nous recueillerons un corpus de discussions Twitter sur "la nature dans la ville", pour décrire, imaginer et mettre en scène de nouvelles formes de convivialité intelligente entre l'homme et la nature. Construire un récit commun de ces histoires, les rendre intelligibles, fait partie de l'effort pour stimuler les réponses à la question " qui a le droit de vivre dans notre espace " visant à produire des éléments pour une nouvelle inclusion éthique pour nos villes en développant des modalités qui expérimentent avec d'autres êtres vivants : d'autres manières de vivre intelligemment.
+Nous avons toujours utilisé les espaces souterrains afin d’enfouir les sujets, vivants et non vivants, dont nous ne voulions pas prendre soin. Ceux que nous trouvions repoussant et indésirables. Les rats ne font pas exception à cette règle. Toujours confinés à la dimension invisible du sous-sol urbain, les rats, sous la nouvelle injonction de " renaturer " nos villes, réaffirment alors leur présence et nous interrogent sur la nécessité à renégocier et partager nos espaces de vie avec un cosmos plus large d'entités et d'êtres. Ces entités nous offrent la possibilité d'imaginer de nouveaux rapports avec les " marginalisés ", les " exclus ". Nous recueillerons donc un corpus de discussions issu de Twitter sur "la nature dans la ville", pour décrire, imaginer et mettre en scène de nouvelles formes de convivialités intelligentes entre l'homme et la nature. Construire un récit commun de ces histoires, les rendre intelligibles, fait partie de l'effort pour stimuler les réponses à la question " qui a le droit de vivre dans notre espace " visant à produire des éléments pour une nouvelle inclusion éthique dans nos villes en développant des modalités qui expérimentent avec d'autres êtres vivants : de nouvelles manières de vivre intelligemment.
 
-L'itération est financée par XXX. Il impliquera des étudiants issus de l'école de théâtre de l'ESAD et de l'ENSCI.
+Cette étape de travail est financée par la Lighthouse Company, l’Esad et la Drac région ile de France. Elle implique des étudiants issus de l'école de théâtre de l'ESAD et de l'ENSCI.
+
+Si vous voulez participer à ce laboratoire, n'hésitez pas à remplir le formulaire, ou simplement vous arrêter pour dire "BONJOUR" !
 
 More info coming soon.
