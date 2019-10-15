@@ -1,0 +1,5 @@
+      <div class="content">
+        {% for image in site.data.images %}
+				<img class="content__img" src="{{ 'assets/images/trails/' | append: image | relative_url }}" alt="some image" />
+        {% endfor %}
+        </div><!--/content-->
