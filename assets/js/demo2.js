@@ -157,13 +157,13 @@
             // then make it disappear
             .to(img.DOM.el, 1, {
                 ease: Power1.easeOut,
-                opacity: 0
-            }, 1)
+                opacity: 0.3
+            }, 0.4)
             // scale down the image
             .to(img.DOM.el, 1, {
                 ease: Quint.easeOut,
-                scale: 0.5
-            }, 1);
+                scale: 0.4
+            }, 0.9);
         }
     }
 
