@@ -158,6 +158,11 @@ h5{
   margin-left: 15px;
 }
 
+.navbar-collapse .text-body {
+  padding: 20px;
+  border-bottom: 1px solid black;
+}
+
 /* logo */
 
 .dept-logo {
@@ -179,8 +184,8 @@ h5{
 .dept-logo-description {
   font-family: "Junicode Condensed", serif;
   font-weight: normal;
-  font-size: 1.375rem;
   margin-left: 28px;
+  font-size: 1rem;
 }
 
 /* credits */
@@ -199,13 +204,13 @@ h5{
 h2 {
   font-family: "Junicode Condensed", serif;
   font-weight: Regular;
-  font-size: 4.5rem;
+  font-size: 3.5rem;
 }
 
 .testone p, .page-intro p, ul{
     font-family: "Junicode Condensed", serif;
     font-weight: normal;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     line-height: 120%;
 }
 
@@ -233,7 +238,7 @@ h2 {
 
 .workshop-container {
   border-top: 1px solid black;
-  padding: 20px 50px;
+  padding: 20px 0px;
 }
 
 .workshop-title {
@@ -254,16 +259,16 @@ h2 {
 .workshop-title h2 {
   font-family: "Junicode Condensed", serif;
   font-weight: normal;
-  font-size: 4.5rem;
+  font-size: 2.5rem;
 }
 
 .workshop-info {
-  display: flex;
+  display: block;
 }
 
 .workshop-info-box {
   flex: 0 0 50%;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .workshop-info-box h6 {
@@ -277,8 +282,8 @@ h2 {
 .workshop-info-box p, .workshop-title p{
   font-family: "Junicode Condensed", serif;
   font-weight: normal;
-  font-size: 2.25rem;
-  margin-left: 28px;
+  font-size: 1.5rem;
+  margin-left: 18px;
 }
 
 .workshop-img {
@@ -333,6 +338,41 @@ h2 {
   h2 {
     font-size: 4.5rem;
   }
+
+  .dept-logo-description {
+    font-size: 1.375rem;
+  }
+
+  .testone p, .page-intro p, ul{
+      font-size: 2.5rem;
+  }
+
+  .workshop-title h2 {
+    font-size: 4.5rem;
+  }
+
+  .workshop-info-box p, .workshop-title p{
+    font-size: 2.25rem;
+    margin-left: 28px;
+  }
+
+  .workshop-info {
+    display: flex;
+  }
+
+  .workshop-info-box {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+
+  .workshop-container {
+    border-top: 1px solid black;
+    padding: 20px 50px;
+  }
+
+
+
+
 }
 
 /* // Large devices (desktops, 992px and up) */
