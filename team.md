@@ -14,8 +14,8 @@ He is working on the hybridization between Design and Digital Social Sciences re
 **Duncan Evennou** (Lighthouse Company) – actor, director.<br>
 He develops works at the fringes of contemporary art, sociology and performance around three major dynamics: creation, research and pedagogy. His shows reflect a willingness to work on the question of the contemporary.
 
-**[Calibro](http://calib.ro)** – design.<br>
+**[Calibro](http://calib.ro)** – designers.<br>
 It is a multidisciplinary design studio in the field of digital data experiments and research, which focuses on designing processes and tools to extract, visualize and publish complex data and information.
 
-**[Benoît Verjat](http://benoit.verjat.com/)** ([g-u-i](http://g-u-i.net), [excellando](http://excellando.com), [Ensad Nancy](http://communication.ensad-nancy.eu)) – Research Designer.<br>
+**[Benoît Verjat](http://benoit.verjat.com/)** ([g-u-i](http://g-u-i.net), [excellando](http://excellando.com), [Ensad Nancy](http://communication.ensad-nancy.eu)) – research designer.<br>
 He collaborates with scientists, artists, public institutions and local actors on their investigations or research-actions. He pays particular attention to the nature of knowledge and the agency of documents in epistemic processes.
