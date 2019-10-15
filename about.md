@@ -28,6 +28,4 @@ sort: 1
 
 For each dimension of the inquiry, we aim at identifying and accounting for the fragments that provide subsistence to ourselves, as individuals and as heterogeneous unstable collectives.
 
-The inquiry is based on an experimental triangulation of different research [methods and practices](/methods-techniques/).
-
 <span class="dept">DEPT.</span>  is based on an experimental triangulation of different research [methods and practices](/methods-techniques/). It explores how the performing arts, social sciences and design practices can otherwise express contemporary conditions. The inquiry is not meant to passively observe our present realities. On the contrary, it proposes an active process which starts with a call to hold on and then proceeds towards active manipulations and forms of expressions. It proposes to establish new roles, emotional feelings and political responsibilities.
