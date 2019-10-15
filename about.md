@@ -17,7 +17,7 @@ sort: 1
 <div class="ml-5">
 <p>
 <a href="/workshops/out-there">OUT THERE</a>, exploring the invitations of material signs to act in the public space;<br>
-<a href="/workshops/in-there">IN THERE</a>, engaging in the rituals of domestic spaces through the stories of their objects;<br>
+<a href="/workshops/in-there">IN HERE</a>, engaging in the rituals of domestic spaces through the stories of their objects;<br>
 <a href="/workshops/hereunder">HEREUNDER</a>, digging into the emotional responses to the city most unwanted beings;<br>
 <a href="/workshops/up-here">UP HERE</a>, probing the subtle landscape of human dreams and hopes;<br>
 <a href="/workshops/in-between">IN BETWEEN</a>, seeking for new transitive exchanges with cultural institutions.<br>

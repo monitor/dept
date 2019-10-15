@@ -1,7 +1,7 @@
 ---
-title: IN THERE
+title: IN HERE
 subtitle: Engaging in the rituals of domestic spaces through the stories of their objects.
-where: Porto Biennale, Porto (PT)
+where: UPTEC Baixa, Porto (PT)
 start_date: 2019-12-02
 end_date: 2019-12-08
 signup_link: https://docs.google.com/forms/d/e/1FAIpQLSc8CRdrZs9uq-drD3j1B-BQWpOxkyZE86-umHAvbrQmjSUPmg/viewform?usp=sf_link
