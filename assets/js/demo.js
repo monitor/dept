@@ -141,7 +141,7 @@
             new TimelineMax()
             // show the image
             .set(img.DOM.el, {
-                startAt: {opacity: 0, scale: 1},
+                startAt: {opacity: 0, scale: 0.5},
                 opacity: 1,
                 scale: 1,
                 zIndex: this.zIndexVal,

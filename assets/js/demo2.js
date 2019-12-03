@@ -52,7 +52,7 @@
             this.DOM = {el: el};
             // image deafult styles
             this.defaultStyle = {
-                scale: 1,
+                scale: 0.4,
                 x: 0,
                 y: 0,
                 opacity: 0
@@ -141,9 +141,9 @@
             new TimelineMax()
             // show the image
             .set(img.DOM.el, {
-                startAt: {opacity: 0, scale: 1},
-                opacity: 0.6,
-                scale: 1,
+                startAt: {opacity: 0, scale: 0.4},
+                opacity: 0.3,
+                scale: 0.4,
                 zIndex: this.zIndexVal,
                 x: cacheMousePos.x - img.rect.width/2,
                 y: cacheMousePos.y - img.rect.height/2
