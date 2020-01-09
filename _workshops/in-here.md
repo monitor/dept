@@ -4,8 +4,8 @@ subtitle: Engaging in the rituals of domestic spaces through the stories of thei
 where: UPTEC Baixa, Porto (PT)
 start_date: 2019-12-02
 end_date: 2019-12-08
-signup_link: https://docs.google.com/forms/d/e/1FAIpQLSc8CRdrZs9uq-drD3j1B-BQWpOxkyZE86-umHAvbrQmjSUPmg/viewform?usp=sf_link
-signup_label: Sign up
+signup_link:  
+signup_label: Sign up (closed)
 image: "porto.png"
 layout: workshop
 order: 2

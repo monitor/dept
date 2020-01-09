@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<div class="workshop-container border-0">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-12 workshop-title">
+        <h2>{{ page.title }}</h2>
+        <p>{{ page.subtitle }}</p>
+      </div>
+      <div class="workshop-info col-lg-12">
+        <div class="workshop-info-box">
+          <h6>where</h6>
+          <p>{{ page.where }}</p>
+        </div>
+        <div class="workshop-info-box">
+          <h6>when</h6>
+          <p>
+            {{ page.start_date | date: "%d.%m" }}–{{ page.end_date | date:
+              "%d.%m.%Y" }}
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="embed-responsive embed-responsive-16by9 my-5">
+          <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{ page.trailer }}?color=fff&title=0&byline=0&portrait=0" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12 workshop-done-content mb-3">
+          {{content}}
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container-fluid workshop-done-content">
+      <div class="row">
+        <div class="col-lg-12">
+          {% for document in page.documents %}
+            {% if document.type== "image" %}
+            <p class="my-3">{{document.caption}}</p>
+            <img src="{{'assets/images/' | append: document.url | relative_url }}" class="img-fluid mt-2" alt="Responsive image">
+          {% elsif document.type == "video" %}
+          <div class="embed-responsive embed-responsive-16by9 my-4">
+            <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/{{ document.url }}?color=fff&title=0&byline=0&portrait=0" allowfullscreen></iframe>
+          </div>
+          <p>{{document.caption}}</p>
+          {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    </div>

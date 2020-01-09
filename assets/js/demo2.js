@@ -157,7 +157,7 @@
             // then make it disappear
             .to(img.DOM.el, 1, {
                 ease: Power1.easeOut,
-                opacity: 0.3
+                opacity: 0.05
             }, 0.4)
             // scale down the image
             .to(img.DOM.el, 1, {

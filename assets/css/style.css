@@ -302,6 +302,12 @@ h2 {
   line-height: 140%;
 }
 
+.workshop-done-content p{
+  font-family: "Junicode Condensed", serif;
+  font-size: 1.8rem;
+  line-height: 140%;
+}
+
 .btn-dark {
   border: 1px solid #000000;
   background-color: white;
@@ -429,6 +435,13 @@ body {
 
   .workshop-content p, .methods-body p{
     font-size: 1.3rem;
+  }
+
+  .workshop-done-content p{
+    font-family: "Junicode Condensed", serif;
+    font-weight: normal;
+    font-size: 1.8rem;
+    line-height: 140%;
   }
 
   .workshop-title h2 {

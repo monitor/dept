@@ -4,34 +4,60 @@ subtitle: Exploring the invitations to act in the public space by material signs
 where: Drugo More, Rijeka (HR)
 start_date: 2019-11-15
 end_date: 2019-11-17
-signup_link:  https://forms.gle/88uHB6qB2G8duSTq9
-signup_label: Sign up
+signup_link:  
+signup_label: Sign up (closed)
 image: "drugo.png"
-layout: workshop
+layout: workshop-done
 order: 1
 logo: "logo-drugo.png"
 logo_link: http://drugo-more.hr/en
 logo_visibility: visible
+trailer: 373872544
+documents:
+  - type: image
+    url: "drugo/drugo-1.jpg"
+    caption: "<b>1. Recomposing digital traces.</b> <br>We asked our co-inquirers living in Rijeka to provide a familiar path within the city. Their daily path from home to the office, to their favourite place or any other place in the city that they are familiar with. Through Google Street View APIs, we collected an image every 10 meters of the left side, the right side of their path."
+  - type: image
+    url: "drugo/drugo-2.jpg"
+    caption: "We retrieved all the objects contained in the Google Street View’s images through an image-recognition algorithm (Dense Captioning) and we produced, semi-automatically, a catalogue displaying these paths and organising the objects and the fragments retrieved."
+  - type: image
+    url: "drugo/drugo-book.png"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-3.jpg"
+    caption: "<b>2. Writing individual narratives.</b> The co-inquirers were invited to leaf through the catalogues, to annotate them and to select 10 meaningful objects. The catalogues have been used as baseline descriptors to open open up questions and critiques. They operate as triggers to have grounded dialogues."
+  - type: image
+    url: "drugo/drugo-4.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-4b.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-5.jpg"
+    caption: "Sensitive to expressions feelings, emotions, relations, links and dependencies, the dialogues transcriptions become materialisation of personal narratives, then, collected and distilled into textual and visual posters."
+  - type: image
+    url: "drugo/drugo-8.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-7.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-6.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-9.jpg"
+    caption: "<b>3. Performing a collective voice.</b> <br>In a specific session, the personal narratives have been re-explored and negotiated. Rather than looking for a smooth unification of individual accounts into greater arguments, the scope has been to conjoin them as an expression of a collective experience. Trying to respect both convergences and divergences; harmonies and dissonances. We tried different approaches for cutting, splicing and regenerating them so to find elements able to articulate them together. <br> This third movement invited the co-inquirers to produce a public expression where it could be felt the alignment of various individual experiences and, at the same time, the moments and the reasons for their possible divergences. Looking for rhythms and directions, the scope has been to produce a voice standing for the localised understanding of the dimension under inquiry.<br>
+    As a final moment a debriefing session, more than focus on the technicalities, strived to engage in discussions about the problem of the representation asking ourselves if we feel adequately represented by this voice. If we feel betrayed by it. If we should adhere or not."
+  - type: image
+    url: "drugo/drugo-10.jpg"
+    caption: ""
+  - type: image
+    url: "drugo/drugo-11.jpg"
+    caption: ""
+
+
+
 ---
+What are the messages, inscriptions, signs and objects, that invites us “to do something”, “to perform actions”, “to imagine an elsewhere”? Trying to answer the question “what is the public space is asking us to do?” in Rijeka we tried to grasp, discuss and describe the effects of these invitations in our daily experiences, exploring and performing their consequences. We tried to attach new meanings to them. We repurposed them to narrate our aspirations, desires, beliefs and possessions defining, individually and collectively, our identities
 
-For the city of Rijeka, streets’ images, retrieved from Google Street View, will be used for identifying the messages, inscriptions, signs and objects, that invites us “to do something”, “to perform actions”, “to imagine an elsewhere”. Trying to answer the question **“what is the public space is asking us to do?”** we will try to grasp, discuss and describe the effects of these invitations in our daily experiences, exploring and performing their consequences. We will try to attach new meanings to them. We will repurpose them to narrate our aspirations, desires, beliefs and possessions defining, individually and collectively, our identities.
-
-The starting point of the workshop will be a series of semi-automatically generated catalogues organising objects and fragments retrieved with an image-recognition algorithm from streets’ images collected through Google Street View. By discussing the contents of the catalogues we will produce a series of posters composed of city’s images mixed with individual narratives. These individual narratives will merge in a common partition that will be publicly performed and captured by an audio track as an expression of the collective experience.
-
-If you want to participate feel free to [compile the form](https://forms.gle/88uHB6qB2G8duSTq9), or just stop by to say “HI!”
-
-<hr>
-
-**IZ NJIH — Poziv za istraživanje djelovanja u javnom prostoru pomoću materijalnih znakova.**
-
-Slike Rijeke, preuzete s Google Street View-a, koristiti će se za prepoznavanje poruka, natpisa, znakova i predmeta. Pokušati ćemo shvatiti, raspraviti i opisati učinke tih poruka, natpisa, znakova i predmeta u svakodnevnom iskustvu, njihove posljedice i značenja. Pokušati ćemo im priložiti nova značenja na način da pripovijedaju o našim individualnim i kolektivnim težnjama, željama i vjerovanjima. Kroz tu igru nastojati ćemo odgovoriti na pitanje “što od nas očekuje javni prostor”, što da u njemu radimo, kakve akcije da poduzimamo.
-
-Ako želite sudjelovati u ovoj igri molimo vas da ispunite obrazac ili naprosto navratite pozdraviti nas.
-
-<hr>
-
-**LÀ FUORI — Esplorare gli spazi pubblici attraverso gli inviti ad agire dei loro segni materiali.**
-
-Per la città di Rijeka, immagini di strade ordinarie, estratte da Google Street View, saranno utilizzate per identificare i messaggi, le iscrizioni, i segni e gli oggetti, che ci invitano a "fare qualcosa", "compiere azioni", "immaginare un altrove". Per rispondere alla domanda "cosa ci chiedere di fare lo spazio pubblico?", cercheremo di cogliere, discutere e descrivere gli effetti di questi inviti nelle nostre esperienze quotidiane, esplorandone ed eseguendone le conseguenze. Cercheremo di attribuire loro nuovi significati. Li ritrascriveremo per raccontare le nostre aspirazioni, desideri, convinzioni e possessioni che definiscono, individualmente e collettivamente, le nostre identità.
-
-Se volete partecipare a questa iterazione compilate il modulo, o semplicemente passate a dire “CIA!”
+<p class="small"> Photos of the exhibition by Tanja Kanazir.
